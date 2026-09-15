@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+  
+  <title>QR code component</title>
+  <style>    
+    .attribution { font-size: 0.6875rem; text-align: center; margin-top: 6px;}
+    .attribution a { color: hsl(228, 45%, 44%); }
+    * {
+      box-sizing: border-box;
+    }
+    body{
+      background-color:hsl(212, 45%, 89%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      flex-direction: column;
+      font-family: Outfit;
+    }
+    section{
+      background-color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+      border-radius: 14px;
+      max-width: 300px;
+      gap: 16px;
+      text-align: center;
+      padding-bottom: 32px;     
+    }
+    section img{
+      border-radius: 14px;
+    }
+    section h1{
+      font-weight: 700;
+      color: hsl(218, 44%, 22%);
+    }
+    section p{
+      font-weight: 400;
+      font-size: 15px;
+      color: hsl(216, 15%, 48%);
+    }
+    section h1 , p{
+      margin: 0;
+      
+    }
+  </style>
+</head>
+<body>
+  <section>
+    <img 
+    src="./images/image-qr-code.png" 
+    alt="QR code to visit Frontend Mentor site" 
+  
+    />
+    <h1>
+      Improve your front-end skills by building projects
+    </h1>
+    <p>
+      Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+    </p>
+  </section>
+   
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
+    Coded by <a href="#">Hibba Rizwan</a>.
+  </footer>
+</body>
+</html>

@@ -16,17 +16,14 @@ The challenge is to built QR code component as close as possible to the original
 
 ### Screenshot
 
-![](./images/QR-code-screenshot.png)
-Desktop View
-![](./images/QR-code-mobile.png)
-Mobile View
+![](./images/QR-code-screenshot.png) **Desktop View**
 
+![](./images/QR-code-mobile.png) **Mobile View**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/HibbaRizwan123/QR-code-component-solution)
 - Live Site URL: [Add live site URL here](https://hibbarizwan123.github.io/QR-code-component-solution/)
-
 
 ### Built with
 
@@ -34,11 +31,9 @@ Mobile View
 - CSS custom properties
 - Flexbox
 
-
 ### What I learned
 - I learned flexbox and its different properties.
 - I learned difference between padding, margin, & gap.
-
 
 ## Author
 

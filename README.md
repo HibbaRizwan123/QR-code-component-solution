@@ -15,15 +15,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The challenge is to built QR code component as close as possible to the original design using semantic HTML.
 
 ### Screenshot
+**Desktop View**
+![](./images/QR-code-screenshot.png) 
 
-![](./images/QR-code-screenshot.png) **Desktop View**
 
-![](./images/QR-code-mobile.png) **Mobile View**
+![](./images/QR-code-mobile.png)     
+**Mobile View**
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HibbaRizwan123/QR-code-component-solution)
-- Live Site URL: [Add live site URL here](https://hibbarizwan123.github.io/QR-code-component-solution/)
+- Solution URL: [Solution URL](https://github.com/HibbaRizwan123/QR-code-component-solution)
+- Live Site URL: [Live Site URL](https://hibbarizwan123.github.io/QR-code-component-solution/)
 
 ### Built with
 
